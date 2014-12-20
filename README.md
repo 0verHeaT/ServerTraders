@@ -1,4 +1,6 @@
 Serverside Traderdata
 =============
 
-Serverside Traderdata (Arma 2 Epoch)
+Just a simple way to keep your trader configuration serverside.
+
+###### Installation
